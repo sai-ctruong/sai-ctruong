@@ -174,23 +174,11 @@ fun_fact: "I train models by day ☀️ and build web apps by night 🌙"
 
 ## 📊 GitHub Analytics
 
-> 💡 *Tất cả số liệu bên dưới đều **tự động cập nhật real-time** mỗi khi có người truy cập profile!*
-
 <div align="center">
 
-<!-- STATS + LANGUAGES SIDE BY SIDE -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sai-ctruong&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=238636&text_color=c9d1d9&ring_color=238636"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-ctruong&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9"/>
-
-<br/>
-
-<!-- STREAK STATS -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sai-ctruong&theme=github-dark-blue&hide_border=true&background=0d1117&ring=238636&fire=238636&currStreakLabel=58A6FF&sideLabels=58A6FF&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak" />
 
 <br/>
-
-<!-- REAL-TIME REPO BADGES -->
-#### 📦 Repository Stats (Live)
 
 ![Stars](https://img.shields.io/github/stars/sai-ctruong?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=238636&label=Total%20Stars)
 ![Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=58A6FF&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsai-ctruong)
