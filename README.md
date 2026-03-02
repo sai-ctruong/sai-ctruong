@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=220&section=header&text=Phạm%20Công%20Trường&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descSize=18&descAlignY=55&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:238636&height=220&section=header&text=Phạm%20Công%20Trường&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Web%20Developer&descSize=18&descAlignY=55&descAlign=50"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+Beautiful+Web+Experiences+%F0%9F%8C%90;Passionate+about+Clean+Code+%26+Modern+UI+%E2%9C%A8;Always+Learning%2C+Always+Growing+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=AI+Engineer+%F0%9F%A4%96+%7C+Machine+Learning+%26+Deep+Learning;Building+Intelligent+Systems+with+Python+%F0%9F%90%8D;Turning+Data+into+Smart+Solutions+%F0%9F%92%A1" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -24,17 +24,18 @@
 name: Phạm Công Trường
 location: Hồ Chí Minh, Việt Nam
 education: Đại học Sư phạm Kỹ thuật TP.HCM (HCMUTE)
-role: Full-Stack Developer | AI Enthusiast
+major: Trí Tuệ Nhân Tạo (Artificial Intelligence)
+role: AI Engineer | Web Developer
 interests:
-  - Web Development (Frontend & Backend)
   - Artificial Intelligence & Machine Learning
-  - UI/UX Design
-  - Open Source Contribution
+  - Deep Learning & Computer Vision
+  - Natural Language Processing
+  - Web Development (Frontend & Backend)
 currently_learning:
-  - React / Next.js Ecosystem
-  - Python for AI & Data Science
-  - Cloud Deployment (Docker, AWS)
-fun_fact: "I turn ☕ into <code/> and 💡 into products"
+  - PyTorch & TensorFlow
+  - Computer Vision & NLP
+  - React / TypeScript for AI-powered Web Apps
+fun_fact: "I train models by day ☀️ and build web apps by night 🌙"
 ```
 
 ---
@@ -43,28 +44,30 @@ fun_fact: "I turn ☕ into <code/> and 💡 into products"
 
 <div align="center">
 
-### 💻 Languages
+### 🤖 AI / Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### 🌐 Web Development
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🧩 Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 ### 🗄️ Databases & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
@@ -193,26 +196,6 @@ fun_fact: "I turn ☕ into <code/> and 💡 into products"
 ![Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=58A6FF&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsai-ctruong)
 ![Followers](https://img.shields.io/github/followers/sai-ctruong?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=238636)
 
-<br/>
-
-<!-- TOP REPO CARDS - Auto updates stars/forks/language -->
-#### ⭐ Top Repositories (Live Stats)
-
-[![Movie_Vibe](https://github-readme-stats.vercel.app/api/pin/?username=sai-ctruong&repo=Movie_Vibe&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=238636&text_color=c9d1d9)](https://github.com/sai-ctruong/Movie_Vibe)
-[![CuoiKi_Web_Java_Clothes](https://github-readme-stats.vercel.app/api/pin/?username=sai-ctruong&repo=CuoiKi_Web_Java_Clothes&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=238636&text_color=c9d1d9)](https://github.com/sai-ctruong/CuoiKi_Web_Java_Clothes)
-
-[![UniQuizz](https://github-readme-stats.vercel.app/api/pin/?username=sai-ctruong&repo=UniQuizz&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=238636&text_color=c9d1d9)](https://github.com/sai-ctruong/UniQuizz)
-[![Mapty](https://github-readme-stats.vercel.app/api/pin/?username=sai-ctruong&repo=Mapty&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=238636&text_color=c9d1d9)](https://github.com/sai-ctruong/Mapty)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sai-ctruong&theme=onestar&no-bg=true&no-frame=true&column=7&margin-w=8)](https://github.com/sai-ctruong)
 
 </div>
 
