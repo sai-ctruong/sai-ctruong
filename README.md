@@ -23,7 +23,7 @@
 ```yaml
 name: Phạm Công Trường
 location: Hồ Chí Minh, Việt Nam
-education: Đại học Sư phạm Kỹ thuật TP.HCM (HCMUTE)
+education: Đại học Công Nghệ Kỹ thuật TP.HCM (HCMUTE)
 major: Trí Tuệ Nhân Tạo (Artificial Intelligence)
 role: AI Engineer | Web Developer
 interests:
