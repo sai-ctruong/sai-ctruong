@@ -80,7 +80,7 @@ fun_fact: "I train models by day ☀️ and build web apps by night 🌙"
 <tr>
 <td width="50%">
 
-### 🎬 [Movie Vibe](https://github.com/sai-ctruong/Movie_Vibe)
+### 🎬 [Movie Doublet](https://github.com/sai-ctruong/Movie_Vibe)
 <p><em>Ứng dụng khám phá phim với giao diện hiện đại</em></p>
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
