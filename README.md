@@ -147,10 +147,11 @@ career_goal: AI Engineer / Machine Learning Engineer
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sai-ctruong&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sai-ctruong&layout=compact&theme=tokyonight&hide_border=true)
-
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sai-ctruong&theme=tokyonight)
+
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sai-ctruong&theme=tokyonight)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sai-ctruong&theme=tokyonight)
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sai-ctruong&theme=tokyonight)
 
 </div>
 
@@ -160,11 +161,7 @@ career_goal: AI Engineer / Machine Learning Engineer
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sai-ctruong&theme=tokyonight&hide_border=true)
-
-<br/>
-
-![Stars](https://img.shields.io/github/stars/sai-ctruong?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=238636&label=Total%20Stars)
+![Repo Stars](https://img.shields.io/github/stars/sai-ctruong?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=238636&label=Total%20Repo%20Stars)
 ![Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=58A6FF&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsai-ctruong)
 ![Followers](https://img.shields.io/github/followers/sai-ctruong?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=238636)
 
