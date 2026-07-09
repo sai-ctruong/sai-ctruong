@@ -93,17 +93,17 @@ career_goal: AI Engineer / Machine Learning Engineer
       </p>
     </td>
     <td width="50%">
-      <h3>🎭 FaceTurn AI Studio</h3>
-      <p><strong>Upload one portrait → get every professional angle, scored for identity match.</strong></p>
-      <p>Focus: Face detection & alignment, face embeddings, MediaPipe FaceMesh, responsible-AI watermarking.</p>
+      <h3>🧩 Maze Escape — Pathfinding AI</h3>
+      <p><strong>2D maze game & visualizer for classic AI search algorithms, built with Python + Pygame.</strong></p>
+      <p>Focus: A*, UCS, Greedy, BFS, DFS, Hill Climbing & Beam Search — with strategic cost-aware AI pathfinding and evasion.</p>
       <p>
-        <img src="https://img.shields.io/badge/Computer%20Vision-1f6feb?style=flat-square" alt="Computer Vision" />
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
-        <img src="https://img.shields.io/badge/MediaPipe-00A98F?style=flat-square" alt="MediaPipe" />
+        <img src="https://img.shields.io/badge/Search%20Algorithms-00599C?style=flat-square" alt="Search Algorithms" />
+        <img src="https://img.shields.io/badge/Pathfinding-238636?style=flat-square" alt="Pathfinding" />
+        <img src="https://img.shields.io/badge/Pygame-FFB000?style=flat-square" alt="Pygame" />
       </p>
       <p>
-        <img src="https://img.shields.io/github/stars/sai-ctruong/Faceturn-AI-Studio?style=flat-square&logo=github&label=Stars&color=238636" alt="Stars" />
-        <img src="https://img.shields.io/github/forks/sai-ctruong/Faceturn-AI-Studio?style=flat-square&logo=github&label=Forks&color=58A6FF" alt="Forks" />
+        <img src="https://img.shields.io/github/stars/sai-ctruong/Game-Escape-Maze?style=flat-square&logo=github&label=Stars&color=238636" alt="Stars" />
+        <img src="https://img.shields.io/github/forks/sai-ctruong/Game-Escape-Maze?style=flat-square&logo=github&label=Forks&color=58A6FF" alt="Forks" />
       </p>
     </td>
   </tr>
