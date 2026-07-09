@@ -72,32 +72,7 @@ career_goal: AI Engineer / Machine Learning Engineer
 
 ## Featured AI Projects
 
-> The cards below pull **live star & fork counts** straight from the GitHub API — they update in real time, no manual editing needed.
-
-<div align="center">
-
-<a href="https://github.com/sai-ctruong/AI-campus-assistant">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sai-ctruong&repo=AI-campus-assistant&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=238636&icon_color=58A6FF&text_color=c9d1d9" alt="AI Campus Assistant" />
-</a>
-<a href="https://github.com/sai-ctruong/Faceturn-AI-Studio">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sai-ctruong&repo=Faceturn-AI-Studio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=238636&icon_color=58A6FF&text_color=c9d1d9" alt="FaceTurn AI Studio" />
-</a>
-
-<a href="https://github.com/sai-ctruong/Sound-classify-AST-CNN">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sai-ctruong&repo=Sound-classify-AST-CNN&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=238636&icon_color=58A6FF&text_color=c9d1d9" alt="SoundClassify CNN vs AST" />
-</a>
-<a href="https://github.com/sai-ctruong/TrafficVision-AI">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sai-ctruong&repo=TrafficVision-AI&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=238636&icon_color=58A6FF&text_color=c9d1d9" alt="TrafficVision AI" />
-</a>
-
-<a href="https://github.com/sai-ctruong/AI_Agentic_LLMs">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sai-ctruong&repo=AI_Agentic_LLMs&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=238636&icon_color=58A6FF&text_color=c9d1d9" alt="AI Agentic LLMs" />
-</a>
-<a href="https://github.com/sai-ctruong/flappy-bird-gesture">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sai-ctruong&repo=flappy-bird-gesture&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=238636&icon_color=58A6FF&text_color=c9d1d9" alt="Flappy Bird Gesture Control" />
-</a>
-
-</div>
+> Each card shows **live star & fork counts** via the GitHub API (shields.io) — they update in real time, no manual editing needed.
 
 <table>
   <tr>
@@ -111,7 +86,11 @@ career_goal: AI Engineer / Machine Learning Engineer
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
       </p>
-      <p><a href="https://ai-rag-assistant-pi.vercel.app"><img src="https://img.shields.io/badge/🚀%20Live%20Demo-Try%20it-238636?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" /></a></p>
+      <p>
+        <a href="https://ai-rag-assistant-pi.vercel.app"><img src="https://img.shields.io/badge/🚀%20Live%20Demo-Try%20it-238636?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" /></a>
+        <img src="https://img.shields.io/github/stars/sai-ctruong/AI-campus-assistant?style=flat-square&logo=github&label=Stars&color=238636" alt="Stars" />
+        <img src="https://img.shields.io/github/forks/sai-ctruong/AI-campus-assistant?style=flat-square&logo=github&label=Forks&color=58A6FF" alt="Forks" />
+      </p>
     </td>
     <td width="50%">
       <h3>🎭 FaceTurn AI Studio</h3>
@@ -121,6 +100,10 @@ career_goal: AI Engineer / Machine Learning Engineer
         <img src="https://img.shields.io/badge/Computer%20Vision-1f6feb?style=flat-square" alt="Computer Vision" />
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
         <img src="https://img.shields.io/badge/MediaPipe-00A98F?style=flat-square" alt="MediaPipe" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/github/stars/sai-ctruong/Faceturn-AI-Studio?style=flat-square&logo=github&label=Stars&color=238636" alt="Stars" />
+        <img src="https://img.shields.io/github/forks/sai-ctruong/Faceturn-AI-Studio?style=flat-square&logo=github&label=Forks&color=58A6FF" alt="Forks" />
       </p>
     </td>
   </tr>
@@ -134,6 +117,10 @@ career_goal: AI Engineer / Machine Learning Engineer
         <img src="https://img.shields.io/badge/Transformer-FF6F00?style=flat-square&logo=huggingface&logoColor=white" alt="Transformer" />
         <img src="https://img.shields.io/badge/Audio%20AI-8A2BE2?style=flat-square" alt="Audio AI" />
       </p>
+      <p>
+        <img src="https://img.shields.io/github/stars/sai-ctruong/Sound-classify-AST-CNN?style=flat-square&logo=github&label=Stars&color=238636" alt="Stars" />
+        <img src="https://img.shields.io/github/forks/sai-ctruong/Sound-classify-AST-CNN?style=flat-square&logo=github&label=Forks&color=58A6FF" alt="Forks" />
+      </p>
     </td>
     <td width="50%">
       <h3>🚦 TrafficVision-AI</h3>
@@ -143,6 +130,10 @@ career_goal: AI Engineer / Machine Learning Engineer
         <img src="https://img.shields.io/badge/Computer%20Vision-1f6feb?style=flat-square" alt="Computer Vision" />
         <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/github/stars/sai-ctruong/TrafficVision-AI?style=flat-square&logo=github&label=Stars&color=238636" alt="Stars" />
+        <img src="https://img.shields.io/github/forks/sai-ctruong/TrafficVision-AI?style=flat-square&logo=github&label=Forks&color=58A6FF" alt="Forks" />
       </p>
     </td>
   </tr>
@@ -156,6 +147,10 @@ career_goal: AI Engineer / Machine Learning Engineer
         <img src="https://img.shields.io/badge/LLM-8A2BE2?style=flat-square" alt="LLM" />
         <img src="https://img.shields.io/badge/Automation-FFB000?style=flat-square" alt="Automation" />
       </p>
+      <p>
+        <img src="https://img.shields.io/github/stars/sai-ctruong/AI_Agentic_LLMs?style=flat-square&logo=github&label=Stars&color=238636" alt="Stars" />
+        <img src="https://img.shields.io/github/forks/sai-ctruong/AI_Agentic_LLMs?style=flat-square&logo=github&label=Forks&color=58A6FF" alt="Forks" />
+      </p>
     </td>
     <td width="50%">
       <h3>🎮 Flappy Bird — Gesture Control</h3>
@@ -165,6 +160,10 @@ career_goal: AI Engineer / Machine Learning Engineer
         <img src="https://img.shields.io/badge/Computer%20Vision-1f6feb?style=flat-square" alt="Computer Vision" />
         <img src="https://img.shields.io/badge/MediaPipe-00A98F?style=flat-square" alt="MediaPipe" />
         <img src="https://img.shields.io/badge/Real--Time-FF6F00?style=flat-square" alt="Real-Time" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/github/stars/sai-ctruong/flappy-bird-gesture?style=flat-square&logo=github&label=Stars&color=238636" alt="Stars" />
+        <img src="https://img.shields.io/github/forks/sai-ctruong/flappy-bird-gesture?style=flat-square&logo=github&label=Forks&color=58A6FF" alt="Forks" />
       </p>
     </td>
   </tr>
@@ -188,7 +187,6 @@ career_goal: AI Engineer / Machine Learning Engineer
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sai-ctruong&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=238636&icon_color=58A6FF" alt="GitHub Stats" />
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sai-ctruong&theme=tokyonight&hide_border=true&background=0d1117&ring=238636&fire=58A6FF&currStreakLabel=238636" alt="GitHub Streak" />
 
 <br/>
