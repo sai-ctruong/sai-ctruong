@@ -72,8 +72,69 @@ career_goal: AI Engineer / Machine Learning Engineer
 
 ## Featured AI Projects
 
+> The cards below pull **live star & fork counts** straight from the GitHub API — they update in real time, no manual editing needed.
+
+<div align="center">
+
+<a href="https://github.com/sai-ctruong/AI-campus-assistant">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sai-ctruong&repo=AI-campus-assistant&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=238636&icon_color=58A6FF&text_color=c9d1d9" alt="AI Campus Assistant" />
+</a>
+<a href="https://github.com/sai-ctruong/Faceturn-AI-Studio">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sai-ctruong&repo=Faceturn-AI-Studio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=238636&icon_color=58A6FF&text_color=c9d1d9" alt="FaceTurn AI Studio" />
+</a>
+
+<a href="https://github.com/sai-ctruong/Sound-classify-AST-CNN">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sai-ctruong&repo=Sound-classify-AST-CNN&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=238636&icon_color=58A6FF&text_color=c9d1d9" alt="SoundClassify CNN vs AST" />
+</a>
+<a href="https://github.com/sai-ctruong/TrafficVision-AI">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sai-ctruong&repo=TrafficVision-AI&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=238636&icon_color=58A6FF&text_color=c9d1d9" alt="TrafficVision AI" />
+</a>
+
+<a href="https://github.com/sai-ctruong/AI_Agentic_LLMs">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sai-ctruong&repo=AI_Agentic_LLMs&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=238636&icon_color=58A6FF&text_color=c9d1d9" alt="AI Agentic LLMs" />
+</a>
+<a href="https://github.com/sai-ctruong/flappy-bird-gesture">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=sai-ctruong&repo=flappy-bird-gesture&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=238636&icon_color=58A6FF&text_color=c9d1d9" alt="Flappy Bird Gesture Control" />
+</a>
+
+</div>
+
 <table>
   <tr>
+    <td width="50%">
+      <h3>🧠 AI Campus Assistant</h3>
+      <p><strong>RAG study assistant — turns PDFs, slides & notebooks into a source-cited chatbot.</strong></p>
+      <p>Focus: Hybrid RAG + reranking, Google Gemini, quiz/flashcard generation, Vietnamese voice mode.</p>
+      <p>
+        <img src="https://img.shields.io/badge/RAG-238636?style=flat-square" alt="RAG" />
+        <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+      </p>
+      <p><a href="https://ai-rag-assistant-pi.vercel.app"><img src="https://img.shields.io/badge/🚀%20Live%20Demo-Try%20it-238636?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" /></a></p>
+    </td>
+    <td width="50%">
+      <h3>🎭 FaceTurn AI Studio</h3>
+      <p><strong>Upload one portrait → get every professional angle, scored for identity match.</strong></p>
+      <p>Focus: Face detection & alignment, face embeddings, MediaPipe FaceMesh, responsible-AI watermarking.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Computer%20Vision-1f6feb?style=flat-square" alt="Computer Vision" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+        <img src="https://img.shields.io/badge/MediaPipe-00A98F?style=flat-square" alt="MediaPipe" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🔊 SoundClassify — CNN vs AST</h3>
+      <p><strong>Benchmarking dangerous-sound classification: custom CNN vs Audio Spectrogram Transformer.</strong></p>
+      <p>Focus: Deep learning, spectrogram visualization, side-by-side model comparison, PyTorch + Flask demo.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+        <img src="https://img.shields.io/badge/Transformer-FF6F00?style=flat-square&logo=huggingface&logoColor=white" alt="Transformer" />
+        <img src="https://img.shields.io/badge/Audio%20AI-8A2BE2?style=flat-square" alt="Audio AI" />
+      </p>
+    </td>
     <td width="50%">
       <h3>🚦 TrafficVision-AI</h3>
       <p><strong>AI-powered traffic monitoring system using Computer Vision.</strong></p>
@@ -84,48 +145,26 @@ career_goal: AI Engineer / Machine Learning Engineer
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
-      <h3>🤖 Agentic AI Lab</h3>
-      <p><strong>Experiments with AI agents and autonomous workflows.</strong></p>
-      <p>Focus: AI agents, LLM applications, workflow automation, reasoning systems.</p>
+      <h3>🤖 AI Agentic LLMs</h3>
+      <p><strong>Experiments with AI agents, tool-use and autonomous LLM workflows.</strong></p>
+      <p>Focus: AI agents, LLM orchestration, reasoning systems, workflow automation.</p>
       <p>
         <img src="https://img.shields.io/badge/Agentic%20AI-238636?style=flat-square" alt="Agentic AI" />
         <img src="https://img.shields.io/badge/LLM-8A2BE2?style=flat-square" alt="LLM" />
         <img src="https://img.shields.io/badge/Automation-FFB000?style=flat-square" alt="Automation" />
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
-      <h3>🌦 Weather Prediction Australia</h3>
-      <p><strong>Machine Learning project using real-world weather datasets.</strong></p>
-      <p>Focus: data preprocessing, feature engineering, model training, model evaluation.</p>
+      <h3>🎮 Flappy Bird — Gesture Control</h3>
+      <p><strong>Play Flappy Bird with hand gestures via real-time computer vision.</strong></p>
+      <p>Focus: Hand tracking, gesture recognition, real-time video processing, human-computer interaction.</p>
       <p>
-        <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square" alt="Machine Learning" />
-        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
-        <img src="https://img.shields.io/badge/Data%20Science-013243?style=flat-square" alt="Data Science" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3>🎮 Escape Game AI</h3>
-      <p><strong>AI-powered escape game where intelligent agents navigate complex environments using search algorithms.</strong></p>
-      <p>Focus: A* Search, BFS, DFS, heuristic search, pathfinding, decision making.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Search%20Algorithms-00599C?style=flat-square" alt="Search Algorithms" />
-        <img src="https://img.shields.io/badge/Pathfinding-238636?style=flat-square" alt="Pathfinding" />
-        <img src="https://img.shields.io/badge/AI-FF6F00?style=flat-square" alt="AI" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <h3>🎓 UniQuiz</h3>
-      <p><strong>AI-powered quiz generation and learning platform designed to help students study more effectively through intelligent question creation and interactive assessments.</strong></p>
-      <p>Focus: Generative AI, Educational Technology, Automated Question Generation, Intelligent Learning Systems, Full-Stack AI Application.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=flat-square" alt="Generative AI" />
-        <img src="https://img.shields.io/badge/Education%20Technology-1f6feb?style=flat-square" alt="Educational Technology" />
-        <img src="https://img.shields.io/badge/Full--Stack%20AI-238636?style=flat-square" alt="Full-Stack AI" />
+        <img src="https://img.shields.io/badge/Computer%20Vision-1f6feb?style=flat-square" alt="Computer Vision" />
+        <img src="https://img.shields.io/badge/MediaPipe-00A98F?style=flat-square" alt="MediaPipe" />
+        <img src="https://img.shields.io/badge/Real--Time-FF6F00?style=flat-square" alt="Real-Time" />
       </p>
     </td>
   </tr>
@@ -145,7 +184,14 @@ career_goal: AI Engineer / Machine Learning Engineer
 
 ## GitHub Statistics
 
+> All cards below are generated on request from the GitHub API, so stars, commits and languages stay **up to date automatically**.
+
 <div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sai-ctruong&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=238636&icon_color=58A6FF" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sai-ctruong&theme=tokyonight&hide_border=true&background=0d1117&ring=238636&fire=58A6FF&currStreakLabel=238636" alt="GitHub Streak" />
+
+<br/>
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sai-ctruong&theme=tokyonight)
 
