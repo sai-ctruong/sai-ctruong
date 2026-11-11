@@ -171,6 +171,14 @@ career_goal: AI Engineer / Machine Learning Engineer
 
 ---
 
+## 🏆 Open Source Recognition
+
+[![XERJ Corpus Hub Contributor](https://hub.xerj.org/contributors/sai-ctruong/badge.svg)](https://hub.xerj.org/contributors/sai-ctruong)
+
+My contribution to [Scope Graph](https://github.com/teehihi/scope-graph) was selected for inclusion in the [XERJ Corpus Hub](https://hub.xerj.org/contributors/sai-ctruong), a reference corpus for AI coding agents.
+
+---
+
 ## Current Learning Goals
 
 - Build advanced Computer Vision projects
